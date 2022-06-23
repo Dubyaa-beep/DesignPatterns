@@ -1,0 +1,11 @@
+C:\Users\Kduby\Documents\KevinsThings\C#\DependencyInjection\DependencyInjectionINTERFACES\bin\Debug\DependencyInjectionINTERFACES.exe.config
+C:\Users\Kduby\Documents\KevinsThings\C#\DependencyInjection\DependencyInjectionINTERFACES\bin\Debug\DependencyInjectionINTERFACES.exe
+C:\Users\Kduby\Documents\KevinsThings\C#\DependencyInjection\DependencyInjectionINTERFACES\bin\Debug\DependencyInjectionINTERFACES.pdb
+C:\Users\Kduby\Documents\KevinsThings\C#\DependencyInjection\DependencyInjectionINTERFACES\bin\Debug\MathUtils.dll
+C:\Users\Kduby\Documents\KevinsThings\C#\DependencyInjection\DependencyInjectionINTERFACES\bin\Debug\MathUtils.pdb
+C:\Users\Kduby\Documents\KevinsThings\C#\DependencyInjection\DependencyInjectionINTERFACES\obj\Debug\DependencyInjectionINTERFACES.csproj.AssemblyReference.cache
+C:\Users\Kduby\Documents\KevinsThings\C#\DependencyInjection\DependencyInjectionINTERFACES\obj\Debug\DependencyInjectionINTERFACES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kduby\Documents\KevinsThings\C#\DependencyInjection\DependencyInjectionINTERFACES\obj\Debug\DependencyInjectionINTERFACES.csproj.CoreCompileInputs.cache
+C:\Users\Kduby\Documents\KevinsThings\C#\DependencyInjection\DependencyInjectionINTERFACES\obj\Debug\DependencyInjectionINTERFACES.csproj.CopyComplete
+C:\Users\Kduby\Documents\KevinsThings\C#\DependencyInjection\DependencyInjectionINTERFACES\obj\Debug\DependencyInjectionINTERFACES.exe
+C:\Users\Kduby\Documents\KevinsThings\C#\DependencyInjection\DependencyInjectionINTERFACES\obj\Debug\DependencyInjectionINTERFACES.pdb

@@ -1,0 +1,6 @@
+C:\Users\Kduby\Documents\KevinsThings\C#\DependencyInjection\MathUtils\bin\Debug\MathUtils.dll
+C:\Users\Kduby\Documents\KevinsThings\C#\DependencyInjection\MathUtils\bin\Debug\MathUtils.pdb
+C:\Users\Kduby\Documents\KevinsThings\C#\DependencyInjection\MathUtils\obj\Debug\MathUtils.csproj.AssemblyReference.cache
+C:\Users\Kduby\Documents\KevinsThings\C#\DependencyInjection\MathUtils\obj\Debug\MathUtils.csproj.CoreCompileInputs.cache
+C:\Users\Kduby\Documents\KevinsThings\C#\DependencyInjection\MathUtils\obj\Debug\MathUtils.dll
+C:\Users\Kduby\Documents\KevinsThings\C#\DependencyInjection\MathUtils\obj\Debug\MathUtils.pdb
